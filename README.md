@@ -1,2 +1,2 @@
 # API
-An exercise for API development
+An exercise for RESTful API development
